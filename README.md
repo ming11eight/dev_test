@@ -30,7 +30,11 @@ repository 이름(ex.test)로 경로를 이동한다 : `cd test`
 - git push  
 > `git push` : clone된 github repository에 파일이 업로드 됨을 확인할 수 있다.
 
-  
+
+### 파일 수정사항 반영할 때  
+`git add`진행하고 `git commit -m ______`을 진행할 때 이전에 commit할 때와 **똑같이** 해아한다. *(아닌가? 안하면 반영이 안되는거 같은데..)*
+
+
 ### branch
 `git branch`를 통해 현재의 브랜치위치와 브랜치 종류를 확인할 수 있다.  
 
