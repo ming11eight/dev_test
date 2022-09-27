@@ -53,8 +53,8 @@ develop branch에서 `git add`, `git commit` 진행
 즉, 깃허브는 그대로이다.  
 *(log에서 나갈 때 키보드의 **Q**를 누르면 빠져나간다)*  
 
-`git branch checkout main` : main branch로 이동  
-그 다음 `git marge develop`을 진행하면 `git log`를 통해 HEAD가 main과 develop 둘 다 가리키고 있음을 확인할 수 있다.  
+`git checkout main` : main branch로 이동  
+그 다음 `git merge develop`을 진행하면 `git log`를 통해 HEAD가 main과 develop 둘 다 가리키고 있음을 확인할 수 있다.  
 그다음 `git push`를 진행하면 a파일의 변경사항이 적용된 파일이 깃허브 원격저장소에 업로드된다.  
 
 
