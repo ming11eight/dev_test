@@ -42,7 +42,7 @@ repository 이름(ex.test)로 경로를 이동한다 : `cd test`
 
 - 현재 branch 위치 변경하기  
 > *현재 branch 위치가 develop이 아니라고 가정*  
-> `git branch checkout develop` : devlop이란 branch로 이동  
+> `git checkout develop` : devlop이란 branch로 이동  
 
 
 ### branch 합치기
