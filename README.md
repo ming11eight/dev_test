@@ -58,6 +58,9 @@ develop branch에서 `git add`, `git commit` 진행
 그다음 `git push`를 진행하면 a파일의 변경사항이 적용된 파일이 깃허브 원격저장소에 업로드된다.  
 
 
+### error  
+![error_img]
+
 #### 참고자료
 git원리사용 원리 이해하는데 도움 : <https://youtu.be/Z9dvM7qgN9s>  
 window바탕의 실습 내용 많음 : <https://youtu.be/rhP5pseOJc0>  
