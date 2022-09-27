@@ -65,7 +65,9 @@ develop branch에서 `git add`, `git commit` 진행
 ### error  
 - git push 오류
 ![error_img](./error_img.png)
-`git pull`하고 `git push`를 진행하면 된다.
+`git pull`하고 `git push`를 진행하면 된다.  
+github repository를 생성할 때 readme.md나 라이센스를 생성하면 생기는 오류라고 한다.  
+
 
 #### 참고자료
 git원리사용 원리 이해하는데 도움 : <https://youtu.be/Z9dvM7qgN9s>  
